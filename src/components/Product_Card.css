@@ -1,0 +1,16 @@
+.product{
+    img{
+        border-radius: 1em;
+    }
+    h3{
+        font-size: 1em;
+        font-weight: bold;
+        margin-bottom: 0.5em;
+    }
+
+    strong{
+        display: inline-block;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+    }
+}
